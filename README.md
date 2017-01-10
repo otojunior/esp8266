@@ -7,11 +7,15 @@ Na IDE do Arduino (usado a 1.8,1 neste roteiro):
 
 1. Menu **Arquivo --> Preferências**
 2. No campo **URLS adicionais para gerenciadores de placas** entre com a URL:
+
 `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+
 3. Menu **Ferramentas --> Placas:... --> Gerenciador de Placas**
 4. Procure por **esp8266** e instale.
 
 Link: [Github ESP8266](https://github.com/esp8266/Arduino)
+
+---
 
 ### Instalação do driver da porta COM ###
 
@@ -19,6 +23,8 @@ Link: [Github ESP8266](https://github.com/esp8266/Arduino)
 2. **_IMPORTANTE_**: Na IDE do Arduino escolher a placa: **WeMos D1 R2 & mini**
 
 Link: [WeMos D1 mini](https://www.wemos.cc/product/d1-mini.html)
+
+---
 
 ### EXTRA - OPCIONAL: Instalação do tema escuro para IDE do Arduino ###
 
