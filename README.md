@@ -7,7 +7,7 @@ Na IDE do Arduino (usado a 1.8,1 neste roteiro):
 
 1. Menu **Arquivo --> Preferências**
 2. No campo **URLS adicionais para gerenciadores de placas** entre com a URL:
-```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
+`http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 3. Menu **Ferramentas --> Placas:... --> Gerenciador de Placas**
 4. Procure por **esp8266** e instale.
 
